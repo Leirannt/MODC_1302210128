@@ -1,0 +1,16 @@
+D:\vscode\C#\minggu3\minggu3\obj\Debug\net5.0\minggu3.csproj.AssemblyReference.cache
+D:\vscode\C#\minggu3\minggu3\obj\Debug\net5.0\minggu3.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\C#\minggu3\minggu3\obj\Debug\net5.0\minggu3.AssemblyInfoInputs.cache
+D:\vscode\C#\minggu3\minggu3\obj\Debug\net5.0\minggu3.AssemblyInfo.cs
+D:\vscode\C#\minggu3\minggu3\obj\Debug\net5.0\minggu3.csproj.CoreCompileInputs.cache
+D:\vscode\C#\minggu3\minggu3\bin\Debug\net5.0\minggu3.exe
+D:\vscode\C#\minggu3\minggu3\bin\Debug\net5.0\minggu3.deps.json
+D:\vscode\C#\minggu3\minggu3\bin\Debug\net5.0\minggu3.runtimeconfig.json
+D:\vscode\C#\minggu3\minggu3\bin\Debug\net5.0\minggu3.runtimeconfig.dev.json
+D:\vscode\C#\minggu3\minggu3\bin\Debug\net5.0\minggu3.dll
+D:\vscode\C#\minggu3\minggu3\bin\Debug\net5.0\ref\minggu3.dll
+D:\vscode\C#\minggu3\minggu3\bin\Debug\net5.0\minggu3.pdb
+D:\vscode\C#\minggu3\minggu3\obj\Debug\net5.0\minggu3.dll
+D:\vscode\C#\minggu3\minggu3\obj\Debug\net5.0\ref\minggu3.dll
+D:\vscode\C#\minggu3\minggu3\obj\Debug\net5.0\minggu3.pdb
+D:\vscode\C#\minggu3\minggu3\obj\Debug\net5.0\minggu3.genruntimeconfig.cache
